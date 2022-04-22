@@ -7,7 +7,7 @@ Estou sempre em busca de aprendizados e melhorias constantes para aplicar no dia
 
 Sou administradora, estudante de Análise e Desenvolvimento de Sistemas na FIAP, facilitadora de Comunicação Não Violenta certificada pelo Instituto I9C de São Paulo, também sou certificada em OKR e Gestão de Performance e Scrum Master Fundamentals pela Lemonade School, tenho habilidade de trabalho em equipe, criação/melhoria de fluxos, boa comunicação e inovação.
 
-Meu target é continuar me desenvolvendo e assim me tornar uma profissional de excelência sendo referência para atividades de desenvolvimento, trazendo insights e estratégias importantes.
+Meu target é continuar evoluindo e assim me tornar uma profissional de excelência sendo referência para atividades de desenvolvimento de software, trazendo insights e estratégias importantes.
 
 Sejam muito bem-vindes! 🥰
 
@@ -17,7 +17,6 @@ Sejam muito bem-vindes! 🥰
   <img align="center" alt="Gabi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gabi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Gabi-pic" height="150" src="https://share-cdn.picrew.me/shareImg/org/202111/338224_zRSwL9Os.png" style="border-radius:50px">
   </div>
   
 ##
