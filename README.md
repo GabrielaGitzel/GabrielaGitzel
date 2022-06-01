@@ -1,10 +1,6 @@
 OOi! 🙋‍♀️
 Meu nome é Gabriela, mas gosto de ser chamada de Gabi! 
 
-O que me move é estar conectada com as estratégias do cliente e estabelecer ações para alcançar os resultados esperados. 
-
-Estou sempre em busca de aprendizados e melhorias constantes para aplicar no dia a dia e gosto muito de compartilhar esses conhecimentos e experiências em prol da empresa e do desenvolvimento da equipe! 
-
 Sou administradora, estudante de Análise e Desenvolvimento de Sistemas na FIAP, facilitadora de Comunicação Não Violenta certificada pelo Instituto I9C de São Paulo, também sou certificada em OKR e Gestão de Performance e Scrum Master Fundamentals pela Lemonade School, tenho habilidade de trabalho em equipe, criação/melhoria de fluxos, boa comunicação e inovação.
 
 Meu target é continuar me aprimorando e, assim, me tornar referência para atividades de desenvolvimento de software, construir pontes que ligam o mundo físico ao virtual, e garantir que as informações que saírem da tela, cheguem direto ao coração do usuário! ♥
