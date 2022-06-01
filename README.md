@@ -7,7 +7,7 @@ Estou sempre em busca de aprendizados e melhorias constantes para aplicar no dia
 
 Sou administradora, estudante de Análise e Desenvolvimento de Sistemas na FIAP, facilitadora de Comunicação Não Violenta certificada pelo Instituto I9C de São Paulo, também sou certificada em OKR e Gestão de Performance e Scrum Master Fundamentals pela Lemonade School, tenho habilidade de trabalho em equipe, criação/melhoria de fluxos, boa comunicação e inovação.
 
-Meu target é continuar evoluindo e assim me tornar uma profissional de excelência sendo referência para atividades de desenvolvimento de software, trazendo insights e estratégias importantes.
+Meu target é continuar me aprimorando e, assim, me tornar referência para atividades de desenvolvimento de software, construir pontes que ligam o mundo físico ao virtual, e garantir que as informações que saírem da tela, cheguem direto ao coração do usuário! ♥
 
 Sejam muito bem-vindes! 🥰
 
